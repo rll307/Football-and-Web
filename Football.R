@@ -1,7 +1,6 @@
 writeLines(
   "**Portuguese**:
-  Este script foi desenvolvido em língua portuguesa
-  como forma de auxiliar colegas da área de LC.
+  Este script foi desenvolvido como forma de auxiliar colegas da área de LC.
   Se você quiser discutir outras aplicações, por favor, me escreva:
   Contato: Rodrigo Esteves de Lima-Lopes
   rll307@unicamp.br
@@ -9,8 +8,7 @@ writeLines(
 
 writeLines (
   "**English**:
-  This script was developed in Portuguese
-  as a way to assist colleagues in the LC area.
+  This script was developed as a way to assist colleagues in the LC area.
   If you need more information or would like to discuss further applications,
   please, drop me a line:
   Contact: Rodrigo Esteves de Lima-Lopes
