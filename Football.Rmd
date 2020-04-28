@@ -4,9 +4,13 @@ author: "Rodrigo Esteves de Lima Lopes"
 output: html_document
 ---
 
-The aim of this document is to discuss the methodological procedures followed in my article *Football and Web: Lexical Analysis of a Genre through Time*. The article is still in a peer reviewing process, but soon as it gets published I will post it here. 
+The aim of this document is to discuss the methodological procedures followed in my article *Football and Web: Lexical Analysis of a Genre through Time*. The article is available at:
 
-I would it to be  a contribution to the replicability of studies in Applied Linguistics field.
+Lima-Lopes, Rodrigo Esteves de. 2020. ‘Football and Web: Lexical Analysis of a Genre through Time’. *Papéis: Revista do Programa de Pós-Graduação em Estudos de Linguagens* - UFMS 24 (47): 150–78. Available at [link](https://seer.ufms.br/index.php/papeis/article/view/9295)
+
+I would it to be  a contribution to the replicability of studies in Applied Linguistics field. 
+
+Please, if you have any comment, you can find me at: [rll307@unicamp.br](<mailto:rll307@unicamp.com?subject="Football and web">)
 
 ## Objectives
  - To study lexical choices in a group of sport news through a
